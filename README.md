@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Texthub](https://github.com/weshallsah/textHub)
 
-- 🌱 I’m currently learning **Flutter, Dart, C++, GitHub, Firebase**
+- 🌱 I’m currently learning **Rust, Solana**
 
-- 📫 How to reach me **weshallsah@gmail.com**
+- 📫 How to reach me **vishalk74064@gmail.com**
 
 - ⚡ Fun fact **I think I am Techiefl**
 
