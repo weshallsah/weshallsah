@@ -64,7 +64,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hardhat-logo.svg" width="40" height="40" alt="Hardhat" />
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" width="40" height="40" alt="Hardhat" />
   &nbsp;&nbsp;
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=035" width="40" height="40" alt="Ethereum" />
   &nbsp;&nbsp;
