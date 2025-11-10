@@ -108,14 +108,39 @@
 
 ---
 
-### 📊 GitHub Stats  
+<!-- ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=tokyonight" alt="Vishal Sah GitHub stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=weshallsah&theme=tokyonight" alt="GitHub Streak" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
+### 📊 GitHub Stats & Analytics  
+
+<div align="center">
+
+<!-- Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=tokyonight&margin-w=10&no-frame=true&row=1" alt="GitHub Trophies" width="98%"/>
+
+<br><br>
+
+<!-- Main GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Vishal Sah GitHub Stats" height="180px"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?user=weshallsah&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="180px"/>
+
+<br><br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="60%"/>
+
+<br><br>
+
+<!-- 3D Contribution Graph -->
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
+
+</div>
 
 ---
 
