@@ -14,17 +14,19 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working on **[Attenomics](https://github.com/weshallsah)** — building scalable backend systems.  
-- 🌱 Learning more about **EVM & Ethereum** smart contract infrastructure.  
-- 💡 Exploring **Backend × Web3** integrations using Node.js, Solidity, and Hardhat.  
-- 👯 Open to collaborations on **backend systems or decentralized applications**.  
-- 📫 Reach me at **[vishalk74064@gmail.com](mailto:vishalk74064@gmail.com)**  
-- ⚡ Fun fact: *I debug faster when I forget to panic.* 😄  
+### 🚀 About Me
+
+- 🔭 Currently working on **[Attenomics](https://github.com/weshallsah)** — building scalable backend systems.
+- 🌱 Learning more about **EVM & Ethereum** smart contract infrastructure.
+- 💡 Exploring **Backend × Web3** integrations using Node.js, Solidity, and Hardhat.
+- 👯 Open to collaborations on **backend systems or decentralized applications**.
+- 📫 Reach me at **[vishalk74064@gmail.com](mailto:vishalk74064@gmail.com)**
+- ⚡ Fun fact: _I debug faster when I forget to panic._ 😄
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/weshallsah/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -37,9 +39,10 @@
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Tech Stack
 
-#### 🖥️ Backend & Cloud  
+#### 🖥️ Backend & Cloud
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
   &nbsp;&nbsp;
@@ -56,7 +59,8 @@
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="55" height="45" alt="AWS" />
 </p>
 
-#### 🪙 Web3 & Blockchain  
+#### 🪙 Web3 & Blockchain
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
   &nbsp;&nbsp;
@@ -69,7 +73,8 @@
   <img src="https://raw.githubusercontent.com/foundry-rs/.github/main/profile/logo.png" width="40" height="40" alt="Foundry" />
 </p>
 
-#### 📱 Mobile & Tools  
+#### 📱 Mobile & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
   &nbsp;&nbsp;
@@ -84,31 +89,38 @@
 
 ---
 
-### 🧩 Featured Projects  
+### 🧩 Featured Projects
 
 #### 🧠 [Attenomics](https://github.com/weshallsah)
-> Scalable backend system built with Node.js, PostgreSQL, and LangChain architecture.  
-> - Deployed on AWS with asynchronous job handling for performance.  
+
+> Scalable backend system built with Node.js, PostgreSQL, and LangChain architecture.
+>
+> - Deployed on AWS with asynchronous job handling for performance.
 > - Integrated data pipelines and caching for low-latency operations.
 
 #### 🎥 [Streamer](https://github.com/weshallsah/Streamer)
-> Real-time live streaming platform using Node.js, FFmpeg, and RTMP.  
-> - Optimized content delivery APIs and video storage via MongoDB GridFS.  
+
+> Real-time live streaming platform using Node.js, FFmpeg, and RTMP.
+>
+> - Optimized content delivery APIs and video storage via MongoDB GridFS.
 
 #### 👟 [SneakerSync](https://github.com/weshallsah/SneakerSync)
-> Flutter + Node.js e-commerce app for sneaker trading.  
-> - Secure user authentication and fast UI using GetX.  
+
+> Flutter + Node.js e-commerce app for sneaker trading.
+>
+> - Secure user authentication and fast UI using GetX.
 
 ---
 
-### 🏆 Certifications & Achievements  
-- AWS Academy Cloud Foundations  
-- AWS Academy Cloud Architecting  
-- 🥈 2× Runner-up — College Coding Contests  
+### 🏆 Certifications & Achievements
+
+- AWS Academy Cloud Foundations
+- AWS Academy Cloud Architecting
+- 🥈 2× Runner-up — College Coding Contests
 
 ---
 
-<!-- ### 📊 GitHub Stats  
+<!-- ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=tokyonight" alt="Vishal Sah GitHub stats" />
   &nbsp;&nbsp;
@@ -116,13 +128,18 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p> -->
-### 📊 GitHub Stats & Analytics  
+
+### 📊 GitHub Stats & Analytics
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="100%" />
-
+<!-- 🏆 GitHub Trophies (Centered & Scaled) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" 
+       alt="GitHub Trophies" 
+       style="border-radius: 12px; margin-bottom: 15px;" 
+       width="85%"/>
+</p>
 <br><br>
 
 <!-- ⚙️ GitHub Stats Cards -->
@@ -146,8 +163,8 @@
 <!-- 🌐 Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=weshallsah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
-</div>
----
+## </div>
 
-### 💡 Quote to Code By  
-> *“Building systems that connect logic with precision — one block, one backend, one byte at a time.”*
+### 💡 Quote to Code By
+
+> _“Building systems that connect logic with precision — one block, one backend, one byte at a time.”_
