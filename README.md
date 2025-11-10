@@ -46,29 +46,43 @@
 #### 🖥️ Backend & Cloud  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="45" alt="AWS" />
 </p>
 
 #### 🪙 Web3 & Blockchain  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
+  &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hardhat-logo.svg" width="40" height="40" alt="Hardhat" />
+  &nbsp;&nbsp;
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=035" width="40" height="40" alt="Ethereum" />
+  &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Remix_logo.svg" width="40" height="40" alt="Remix IDE" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" width="40" height="40" alt="Foundry" />
 </p>
 
 #### 📱 Mobile & Tools  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
 </p>
 
@@ -101,7 +115,9 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=tokyonight" alt="Vishal Sah GitHub stats" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=weshallsah&theme=tokyonight" alt="GitHub Streak" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
