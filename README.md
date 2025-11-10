@@ -116,14 +116,18 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p> -->
+
 ### 📊 GitHub Stats & Analytics  
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="100%" />
-
-<br><br>
+<!-- 🏆 GitHub Trophies (Centered & Scaled) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" 
+       alt="GitHub Trophies" 
+       style="border-radius: 12px; margin-bottom: 15px;" 
+       width="85%"/>
+</p>
 
 <!-- ⚙️ GitHub Stats Cards -->
 <a href="https://github.com/weshallsah">
@@ -147,6 +151,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=weshallsah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
+
+
 ---
 
 ### 💡 Quote to Code By  
