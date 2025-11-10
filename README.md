@@ -15,12 +15,12 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **[Attenomics](https://github.com/weshallsah)** — building scalable backend systems.  
+- 🔭 Currently **working on personal and open-source backend projects** focused on **scalable architectures** and **AI × Web3 integration**.  
 - 🌱 Learning more about **EVM & Ethereum** smart contract infrastructure.  
-- 💡 Exploring **Backend × Web3** integrations using Node.js, Solidity, and Hardhat.  
-- 👯 Open to collaborations on **backend systems or decentralized applications**.  
+- 💡 Exploring **Backend × Web3** integrations using **Node.js**, **Solidity**, and **Hardhat**.  
+- 🤝 Open to collaborations on **backend systems** or **decentralized applications**.  
 - 📫 Reach me at **[vishalk74064@gmail.com](mailto:vishalk74064@gmail.com)**  
-- ⚡ Fun fact: *I debug faster when I forget to panic.* 😄  
+- ⚡ Fun fact: *I debug faster when I forget to panic.* 😅  
 
 ---
 
