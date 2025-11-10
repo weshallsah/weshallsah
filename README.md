@@ -30,10 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/weshallsah" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/weshallsah" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
