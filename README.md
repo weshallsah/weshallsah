@@ -120,28 +120,33 @@
 
 <div align="center">
 
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=tokyonight&margin-w=10&no-frame=true&row=1" alt="GitHub Trophies" width="98%"/>
+<!-- 🏆 GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=weshallsah&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="100%" />
 
 <br><br>
 
-<!-- Main GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Vishal Sah GitHub Stats" height="180px"/>
+<!-- ⚙️ GitHub Stats Cards -->
+<a href="https://github.com/weshallsah">
+  <img src="https://github-readme-stats.vercel.app/api?username=weshallsah&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Vishal Sah GitHub Stats" height="180px"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=weshallsah&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="180px"/>
+<a href="https://github.com/weshallsah">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=weshallsah&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" height="180px"/>
+</a>
 
 <br><br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="60%"/>
+<!-- 🧠 Top Languages -->
+<a href="https://github.com/weshallsah">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshallsah&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="60%"/>
+</a>
 
 <br><br>
 
-<!-- 3D Contribution Graph -->
-<img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%"/>
+<!-- 🌐 Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=weshallsah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
-
 ---
 
 ### 💡 Quote to Code By  
