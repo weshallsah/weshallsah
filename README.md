@@ -108,35 +108,6 @@
 
 ---
 
----
-
-### 🥇 Competitive Programming Profiles  
-
----
-
-### 🥇 Competitive Programming Profiles  
-
-<p align="center">
-
-  <!-- 🧩 LeetCode -->
-  <a href="https://leetcode.com/u/vishalk74064/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/vishalk74064?theme=dark&font=Karma&ext=contest&width=340" alt="LeetCode Profile" width="340"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- 🍴 CodeChef -->
-  <a href="https://www.codechef.com/users/onedirectionv" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★%20(1472)-B272A6?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- 🥷 Coding Ninjas -->
-  <a href="https://www.naukri.com/code360/profile/One_D_vishal" target="_blank">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas%20-%20Advanced%20Batch-FF5722?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Batch" height="45"/>
-  </a>
-
-</p>
-
 
 <!-- ### 📊 GitHub Stats  
 <p align="center">
