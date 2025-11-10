@@ -66,7 +66,7 @@
   &nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" width="40" height="40" alt="Hardhat" />
   &nbsp;&nbsp;
-  <img src="https://banner2.cleanpng.com/20180820/ryr/868dbcd76492a0f61d90af249823f472.webp" width="40" height="40" alt="Ethereum" />
+  <img src="https://www.citypng.com/public/uploads/preview/ethereum-eth-white-logo-sign-png-701751694771762mrip4l9ayo.png" width="40" height="40" alt="Ethereum" />
   &nbsp;&nbsp;
   <img src="https://cdn-1.webcatalog.io/catalog/remix-ide/remix-ide-icon-filled-256.webp?v=1714775654961" width="40" height="40" alt="Remix IDE" />
   &nbsp;&nbsp;
