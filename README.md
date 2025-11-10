@@ -66,11 +66,11 @@
   &nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" width="40" height="40" alt="Hardhat" />
   &nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=040" width="40" height="40" alt="Ethereum" />
+  <img src="https://banner2.cleanpng.com/20180820/ryr/868dbcd76492a0f61d90af249823f472.webp" width="40" height="40" alt="Ethereum" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Remix_logo.svg" width="40" height="40" alt="Remix IDE" />
+  <img src="https://cdn-1.webcatalog.io/catalog/remix-ide/remix-ide-icon-filled-256.webp?v=1714775654961" width="40" height="40" alt="Remix IDE" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png" width="40" height="40" alt="Foundry" />
+  <img src="https://raw.githubusercontent.com/foundry-rs/.github/main/profile/logo.png" width="40" height="40" alt="Foundry" />
 </p>
 
 #### 📱 Mobile & Tools  
